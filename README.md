@@ -59,8 +59,8 @@ python_project_1/
 
 ```
 Enter your choice: s
-You chose : Snake
-Computer chose: Gun
+You chose Snake
+Computer chose Gun
 You lose!
 ```
 
